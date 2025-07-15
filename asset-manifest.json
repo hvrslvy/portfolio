@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c1c0354c.css",
-    "main.js": "/portfolio/static/js/main.bb7b2202.js",
+    "main.js": "/portfolio/static/js/main.77031eb5.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/npcc.png": "/portfolio/static/media/npcc.e3bef1ff8e19c4cda08d.png",
     "static/media/YoungEngineer.png": "/portfolio/static/media/YoungEngineer.87dc44c21431bc02352c.png",
     "static/media/LegoLeagueProgram.png": "/portfolio/static/media/LegoLeagueProgram.339310c91f08f83a95b7.png",
     "static/media/EdusaveMerit.png": "/portfolio/static/media/EdusaveMerit.a1887280d79742566c16.png",
     "static/media/AeronauticEngineering.png": "/portfolio/static/media/AeronauticEngineering.ad780cb195ce859207c1.png",
+    "static/media/studentcouncil.jpg": "/portfolio/static/media/studentcouncil.9307c81c2c2d20c19a60.jpg",
     "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/profile.png": "/portfolio/static/media/profile.785e0361b78875c0885e.png",
     "index.html": "/portfolio/index.html",
     "main.c1c0354c.css.map": "/portfolio/static/css/main.c1c0354c.css.map",
-    "main.bb7b2202.js.map": "/portfolio/static/js/main.bb7b2202.js.map",
+    "main.77031eb5.js.map": "/portfolio/static/js/main.77031eb5.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c0354c.css",
-    "static/js/main.bb7b2202.js"
+    "static/js/main.77031eb5.js"
   ]
 }
