@@ -26,36 +26,6 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBook} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Lego League ALP Program
-            </h3>
-            <p>
-              I participated in a coding challenge where we used sensors and
-              automation to build a simple solution. I worked in a team and I
-              presented our project to the principal.
-            </p>
-            <p>
-              <strong>What I learnt:</strong> I was introduced to basic
-              programming and how to solve problems using technology.
-            </p>
-            <p>
-              <strong>How it sparked my interest:</strong> It showed me how data
-              and technology come together which sparked my curiosity.
-            </p>
-            <img
-              src={legoLeagueImage}
-              style={{ marginTop: 20 }}
-              className="zoom"
-              alt="thumbnail"
-              width="100%"
-            />
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2024"
-            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
-            icon={<FontAwesomeIcon icon={faBook} />}
-          >
-            <h3 className="vertical-timeline-element-title">
               Aeronautic Engineering Module
             </h3>
             <p>
@@ -73,6 +43,36 @@ function Timeline() {
             </p>
             <img
               src={aeronauticEngineeringImage}
+              style={{ marginTop: 20 }}
+              className="zoom"
+              alt="thumbnail"
+              width="100%"
+            />
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2023"
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
+            icon={<FontAwesomeIcon icon={faBook} />}
+          >
+            <h3 className="vertical-timeline-element-title">
+              Lego League ALP Program
+            </h3>
+            <p>
+              I participated in a coding challenge where we used sensors and
+              automation to build a simple solution. I worked in a team and I
+              presented our project to the principal.
+            </p>
+            <p>
+              <strong>What I learnt:</strong> I was introduced to basic
+              programming and how to solve problems using technology.
+            </p>
+            <p>
+              <strong>How it sparked my interest:</strong> It showed me how data
+              and technology come together which sparked my curiosity.
+            </p>
+            <img
+              src={legoLeagueImage}
               style={{ marginTop: 20 }}
               className="zoom"
               alt="thumbnail"

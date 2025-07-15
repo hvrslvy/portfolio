@@ -4,6 +4,7 @@ import { faBlackTie } from "@fortawesome/free-brands-svg-icons";
 import { faPeopleGroup } from "@fortawesome/free-solid-svg-icons";
 import "../assets/styles/Expertise.scss";
 import npccImage from "../assets/images/AboutMe/npcc.png";
+import studentcouncilImage from "../assets/images/AboutMe/studentcouncil.jpg";
 
 function MyProfile() {
   return (
@@ -39,6 +40,13 @@ function MyProfile() {
               learned how to manage tasks, work with different groups of people
               and stay adaptable when things don't go as planned.
             </p>
+            <img
+              src={studentcouncilImage}
+              style={{ marginTop: 20 }}
+              className="zoom"
+              alt="thumbnail"
+              width="100%"
+            />
           </div>
 
           <div className="skill">

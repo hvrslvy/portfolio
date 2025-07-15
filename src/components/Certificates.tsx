@@ -10,12 +10,12 @@ function Certificates() {
       <h1>Certificates</h1>
       <div className="projects-grid">
         <div className="project">
-          <img src={image2} className="zoom" alt="thumbnail" width="100%" />
-          <h2>Young Engineering Award (2023)</h2>
-        </div>
-        <div className="project">
           <img src={image1} className="zoom" alt="thumbnail" width="100%" />
           <h2>Aeronautic Engineering Elective Module (2024)</h2>
+        </div>
+        <div className="project">
+          <img src={image2} className="zoom" alt="thumbnail" width="100%" />
+          <h2>Young Engineering Award (2023)</h2>
         </div>
         <div className="project">
           <img src={image3} className="zoom" alt="thumbnail" width="100%" />
